@@ -1,0 +1,415 @@
+{
+    "header": {
+    "id": "CommunityCoupons",
+    "version": "1.0.5"
+    },
+    "storeDetails":[
+    {
+    "storeName": "Ariana Produce and Cuisine",
+    "businessType": "Retail",
+    "category": "Supermarket",
+    "discountDetails": "5% OFF, Entire CASH Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_ariana.jpg",
+    "geoCordinates": "",
+    "storeAddress": "11261 Camino Ruiz, Suite 3, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Ariana_Produce_and_Cuisine.jpg"
+    },
+    {
+    "storeName": "Auto Glass Centers",
+    "businessType": "Services",
+    "category": "Car Windshield",
+    "discountDetails": "10% OFF, Any Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_autoglass.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9630 Black Mountain Rd. Ste J, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Auto_Glass.jpg"
+    },
+    {
+    "storeName": "Being Fit",
+    "businessType": "Services",
+    "category": "Fitness",
+    "discountDetails": "1st Month Free",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_beingfit.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8292 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Being_Fit.jpg"
+    },
+    {
+    "storeName": "Bowl of Heaven",
+    "businessType": "Restaurants",
+    "category": "Healthy",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_bowlofheaven.jpg",
+    "geoCordinates": "",
+    "storeAddress": "6755 Mira Mesa Blvd, Ste 118, San Diego, CA 92121",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Bowl_of_Heaven.jpg"
+    },
+    {
+    "storeName": "Buca di Beppo",
+    "businessType": "Restaurants",
+    "category": "Italian",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_bucadibeppo.jpg",
+    "geoCordinates": "",
+    "storeAddress": "10749 Westview Pkwy, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Buca_di_Beppo.jpg"
+    },
+    {
+    "storeName": "Denny’s 7856",
+    "businessType": "Restaurants",
+    "category": "American",
+    "discountDetails": "15% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_dennys.jpg",
+    "geoCordinates": "",
+    "storeAddress": "6908 Miramar Rd, San Diego, CA 92121",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Dennys.jpg"
+    },
+    {
+    "storeName": "Fantastic Sams",
+    "businessType": "Services",
+    "category": "Hair Salon",
+    "discountDetails": "$3 OFF Haircut, $10 OFF Color",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_fantasticsam.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9460 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Fantastic_Sams.jpg"
+    },
+    {
+    "storeName": "GNC 8250",
+    "businessType": "Retail",
+    "category": "Health and Nutrition",
+    "discountDetails": "$5 OFF, purchase of $20",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_gnc.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8250-D Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/GNC_1.jpg"
+    },
+    {
+    "storeName": "GNC 9460",
+    "businessType": "Retail",
+    "category": "Health and Nutrition",
+    "discountDetails": "20% OFF, Purchase of $50 or more",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_gnc9460.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9460-F Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/GNC_2.jpg"
+    },
+    {
+    "storeName": "Happy's Sushi",
+    "businessType": "Restaurants",
+    "category": "Japanese",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_happysushi.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8973 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Happy_Sushi.jpg"
+    },
+    {
+    "storeName": "House of Bites",
+    "businessType": "Restaurants",
+    "category": "Pizza and more",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_houseofbites.jpg",
+    "geoCordinates": "",
+    "storeAddress": "7094 Miramar Rd, San Diego, CA 92121",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/House_of_Bites.jpg"
+    },
+    {
+    "storeName": "Kim Long Jewelry",
+    "businessType": "Services",
+    "category": "Watch Battery",
+    "discountDetails": "10% OFF, Watch Batteries, Free Ear Pearcing",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_kimlong.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8995 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Kim_Long.jpg"
+    },
+    {
+    "storeName": "Knockout Pizza",
+    "businessType": "Restaurants",
+    "category": "Pizza",
+    "discountDetails": "Free Garlic Knots, With $15 Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_knockoutpizza.jpg",
+    "geoCordinates": "",
+    "storeAddress": "6755 Mira Mesa Blvd #119, San Diego, CA 92121",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Knockout_Pizzeria.jpg"
+    },
+    {
+    "storeName": "La Vang",
+    "businessType": "Restaurants",
+    "category": "Vietnamese",
+    "discountDetails": "10% OFF, Dine In Only",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_lavang.jpg",
+    "geoCordinates": "",
+    "storeAddress": "6755 Mira Mesa Blvd #113, San Diego, CA 92121",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/La_Vang.jpg"
+    },
+    {
+    "storeName": "Loving Hut",
+    "businessType": "Restaurants",
+    "category": "Vegan",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_lovinghut.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9928 Mira Mesa Blvd, San Diego, CA 92131",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Loving_Hut.jpg"
+    },
+    {
+    "storeName": "Metro PCS",
+    "businessType": "Retail",
+    "category": "Cellphone",
+    "discountDetails": "Free, Screen Protector or Case with phone purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_metropcs.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9422 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Metro_PCS.jpg"
+    },
+    {
+    "storeName": "Mathnasium",
+    "businessType": "Services",
+    "category": "Learning Center",
+    "discountDetails": "$50 OFF, Registration",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_mathnasium.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9460 Mira Mesa Blvd., Suite J, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Mathnasium.jpg"
+    },
+    {
+    "storeName": "Miramar Martial Arts Academy",
+    "businessType": "Services",
+    "category": "Martial Arts",
+    "discountDetails": "50% OFF, Introductory Program",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_miramar.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9460 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Miramar_Martial_Arts_Academy.jpg"
+    },
+    {
+    "storeName": "Natura Waxing Lounge and Spa",
+    "businessType": "Services",
+    "category": "Spa (Waxing)",
+    "discountDetails": "20% OFF, 1st Time Clients Only",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_natura.jpg",
+    "geoCordinates": "",
+    "storeAddress": "6755 Mira Mesa Blvd #216a, San Diego, CA 92121",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Natura_Waxing_Lounge_and_Spa.jpg"
+    },
+    {
+    "storeName": "NY Giant Pizza ",
+    "businessType": "Restaurants",
+    "category": "Pizza",
+    "discountDetails": "1 Free Topping, Any Size Pizza",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_nygiant.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9388-C Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/NY_Giant_Pizza.jpg"
+    },
+    {
+    "storeName": "Phone Doctor Plus",
+    "businessType": "Services",
+    "category": "Cellphone repair",
+    "discountDetails": "$5 OFF, Repairs",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_phonedoctor.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9422 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Phone_Doctor_Plus.jpg"
+    },
+    {
+    "storeName": "Pick Up Stix",
+    "businessType": "Restaurants",
+    "category": "Chinese",
+    "discountDetails": "15% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_pickupstix.jpg",
+    "geoCordinates": "",
+    "storeAddress": "10712 Westview Pkwy #205, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Pick_Up_Stix.jpg"
+    },
+    {
+    "storeName": "Rockin’ Jump",
+    "businessType": "Entertainment",
+    "category": "Trampoline Park",
+    "discountDetails": "2nd Hour, Free",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_rockinjum.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8190 Miralani Dr, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Rockin_Jump.jpg"
+    },
+    {
+    "storeName": "Sattvik Foods",
+    "businessType": "Restaurants",
+    "category": "Indian (Vegan)",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_sattvik.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8650 Miramar Rd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Sattvik_Foods.jpg"
+    },
+    {
+    "storeName": "Sayulita’s Mexican Food",
+    "businessType": "Restaurants",
+    "category": "Mexican",
+    "discountDetails": "15% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_sayulitas.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8155 Mira Mesa Blvd #6, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Sayulitas_Mexican_Food.jpg"
+    },
+    {
+    "storeName": "Souplantation",
+    "businessType": "Restaurants",
+    "category": "Buffet (American)",
+    "discountDetails": "15% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_souplantation.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8105 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Souplantation.jpg"
+    },
+    {
+    "storeName": "Sport Clips Haircuts",
+    "businessType": "Services",
+    "category": "Haircut",
+    "discountDetails": "$5 OFF, MVP Haircut",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_sportclips.jpg",
+    "geoCordinates": "",
+    "storeAddress": "6755 Mira Mesa Blvd, San Diego, CA 92121",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/SportClips.jpg"
+    },
+    {
+    "storeName": "TAO Spa and Foot Massage",
+    "businessType": "Services",
+    "category": "Spa (Massage)",
+    "discountDetails": "$5 OFF, 60 Min Body Massage Only",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_tao.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8230 Mira Mesa Blvd A1, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/TaoSpa.jpg"
+    },
+    {
+    "storeName": "The Floral Gallery",
+    "businessType": "Retail",
+    "category": "Flowers",
+    "discountDetails": "15% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_floral.jpg",
+    "geoCordinates": "",
+    "storeAddress": "6755 Mira Mesa Blvd Ste 121, San Diego, CA 92121",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/TheFloralGallery.jpg"
+    },
+    {
+    "storeName": "Grill House Cafe",
+    "businessType": "Restaurants",
+    "category": "Persian/Mediterranean",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_grillhousecafe.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9494 Black Mountain Rd, Ste G, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Grill_House_Cafe.jpg"
+    },
+    {
+    "storeName": "California Thai Cafe",
+    "businessType": "Restaurants",
+    "category": "Thai",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_californiathaicafe.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9550 Black Mountain Rd a, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/California_Thai_Cafe.jpg"
+    },
+    {
+    "storeName": "Ariana's Restaurant",
+    "businessType": "Restaurants",
+    "category": "Indian/Mediterranean",
+    "discountDetails": "15% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_ariana_restaurant.jpg",
+    "geoCordinates": "",
+    "storeAddress": "11261 Camino Ruiz, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Ariana_Restaurant.jpg"
+    },
+    {
+    "storeName": "Premier Hair & Princess Nails",
+    "businessType": "Services",
+    "category": "Hair/Nails Salon",
+    "discountDetails": "$2 OFF/$10, Shellac Manicure/Men's Haircut",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_premier_hair.jpg",
+    "geoCordinates": "",
+    "storeAddress": "6755 Mira Mesa #120, San Diego, CA 92121",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Premier_hair.jpg"
+    },
+    {
+    "storeName": "Mama Cinia Rice & Noodles",
+    "businessType": "Restaurants",
+    "category": "Filipino",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_Mama_Cinia_Rice_and_Noodles.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9178 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Mama_Cinia_Rice_And_Noodles.jpg"
+    },
+    {
+    "storeName": "Your Cleaners",
+    "businessType": "Services",
+    "category": "Dry Cleaning",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_cleaners.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8971 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/YourCleaners.jpg"
+    },
+    {
+    "storeName": "Pacific Poke Co",
+    "businessType": "Restaurants",
+    "category": "Poke/Hawaiian",
+    "discountDetails": "15% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_Pacific_Poke_Co.jpg",
+    "geoCordinates": "",
+    "storeAddress": "9168 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Pacific_Poke_Co.jpg"
+    },
+    {
+    "storeName": "IC Monster",
+    "businessType": "Restaurants",
+    "category": "Ice Cream Shop",
+    "discountDetails": "10% OFF, Entire Purchase",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_icmonster.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8945 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/IC_Monster.jpg"
+    },
+    {
+    "storeName": "Rockin Baja Lobster",
+    "businessType": "Restaurants",
+    "category": "Seafood",
+    "discountDetails": "15% off regular priced item",
+    "discountImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/coupon_RockinBajaLobsterOffer.jpg",
+    "geoCordinates": "",
+    "storeAddress": "8223 Mira Mesa Blvd, San Diego, CA 92126",
+    "storeImageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Rockin_Baja_Lobster.jpg"
+    }],
+    "advertisements":[ {
+    	"name": "Knockout Pizzeria",
+    	"type": "single",
+    	"advertisement": 
+    		[
+    			{"id": "1", "imageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Screen2KOPizzeriaAD.jpg"}
+    		]
+    		},
+   			{
+    	"name": "N.Y Giant Pizza",
+    	"type": "single",
+    	"advertisement": 
+    		[
+    			{"id": "1", "imageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Screen2NYGiantPizzaAD.jpg"}
+   			]
+   			},
+   			{
+    	"name": "Being Fit",
+    	"type": "slide",
+    	"advertisement": 
+    		[
+    			{"id": "1", "imageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Screen3BeingFitslide1.jpg"},
+    			{"id": "2", "imageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Screen3BeingFitslide2.jpg"},
+    			{"id": "3", "imageURL": "http://www.mobilebusinessapplication.com/Img/Logos/Screen3BeingFitslide1.jpg"}
+    
+   			]
+   			}
+    ]
+}
