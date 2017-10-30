@@ -94,7 +94,7 @@
 						<version>2.6</version>
 						<configuration>
 							<outputDirectory>webapps</outputDirectory>
-							<warName>CommunityCouponDataServer</warName>
+							<warName>ROOT</warName>
 						</configuration>
 					</plugin>
 					<plugin>
